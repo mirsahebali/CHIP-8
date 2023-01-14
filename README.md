@@ -10,7 +10,7 @@ A CHIP-8 emulator made using JavaScript that is run using the Python server.
 
 3. No need to npm install as it is made using vanilla JavaScript.
 
-4. Run "Python -m server.py".
+4. Run "node server.js".
 
 5. Enjoy. 
 

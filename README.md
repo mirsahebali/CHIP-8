@@ -19,3 +19,8 @@ A CHIP-8 emulator made using JavaScript that is run using the Python server.
 
 Notice: Please report me if you found any issue while running it.
 
+
+
+Link to live demo: https://chip-8-emulator-1.web.app/
+(wait for a few seconds for scripts to load)
+
